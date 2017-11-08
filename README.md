@@ -57,7 +57,7 @@ playing as God.
 
 This interactive console application stores the current world population in millions and then asks the user if it is a zombie apocalpyse or a time of peace.  The population is then changed accordingly.
 
-![alt text](https://kragula.github.io/Programming-II-Portfolio/WorldPopulation/Screenshots/EndScreen.png "Display")
+![alt text](https://github.com/SamBow/Programming2Projects/blob/master/WorldPopulation/Images/EndScreen.png "Display")
 
 Steps to run:
 1. Download .class file [here](https://github.com/KRagula/Programming-II-Portfolio/blob/master/WorldPopulation/WorldPopulation.class)
