@@ -71,22 +71,15 @@ This class reads terrain values and a water level value and determines which ter
 
 A Map is randomly generated with terrain of different altitudes.
 
-![alt text](https://kragula.github.io/Programming-II-Portfolio/FloodMap/Screenshots/FloodMapAlt.png "Display")
+![alt text](https://github.com/SamBow/Programming2Projects/blob/master/FloodMap/Images/FloodMapAlt.png "Display")
 
 The map is then slowly flooded in increments of 10 until it is full.
 
-![alt text](https://kragula.github.io/Programming-II-Portfolio/FloodMap/Screenshots/FloodMapPartial.png "Partial")
+![alt text](https://github.com/SamBow/Programming2Projects/blob/master/FloodMap/Images/FloodMapPartial.png "Partial")
 
-![alt text](https://kragula.github.io/Programming-II-Portfolio/FloodMap/Screenshots/FloodMapFull.png "Display")
+![alt text](https://github.com/SamBow/Programming2Projects/blob/master/FloodMap/Images/FloodMapFull.png "Display")
 
-(The altitudes and displays are from two different runs of the application)
-
-Steps to run:
-1. Download .class file [here](https://github.com/KRagula/Programming-II-Portfolio/blob/master/FloodMap/FloodMap.class)
-2. Open command line and navigate to downloads directory
-3. Enter the following command: **java FloodMap**
-
-Repo [here](https://github.com/KRagula/Programming-II-Portfolio/blob/master/FloodMap)
+Repo [here](https://github.com/SamBow/Programming2Projects/tree/master/FloodMap)
 
 ### Tanker Truck Calculator
 
