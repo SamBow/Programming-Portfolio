@@ -1,4 +1,4 @@
-# Programming II Portfolio
+# Programming 2 Portfolio
 
 ## Projects
 
