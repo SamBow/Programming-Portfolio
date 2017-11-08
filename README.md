@@ -6,7 +6,7 @@
 
 
 ![alt text](https://github.com/SamBow/Programming2Projects/blob/master/VirusChampion/Images/Virus1.png "Title Screen")
-![alt text](https://kragula.github.io/Programming-II-Portfolio/VirusChampion/Screenshots/InstructionScreen.png "Instructions Screen")
+![alt text](https://github.com/SamBow/Programming2Projects/blob/master/VirusChampion/Images/Virus2.png "Instructions Screen")
 
 Simulate a white blood cell eliminating the bacteria in order to prevent them from splitting in two and harming the host.  WASD for movement and control.  Mouse to fire.  Mitosis launches a smaller white blood cell at the bacteria, killing on impact.
 
@@ -18,18 +18,10 @@ Features:
 <li> Educational Screens on each Infection</li>
 </ul>
 
-![alt text](https://kragula.github.io/Programming-II-Portfolio/VirusChampion/Screenshots/Cellsgame.png "Gameplay")
-![alt text](https://kragula.github.io/Programming-II-Portfolio/VirusChampion/Screenshots/Cellsend.png "Game Over")
+![alt text](https://github.com/SamBow/Programming2Projects/blob/master/VirusChampion/Images/Virus3.png "Gameplay")
+![alt text](https://github.com/SamBow/Programming2Projects/blob/master/VirusChampion/Images/Virus4.png "Game Over")
 
-
-Download Instructions:
-
-1. Go to link [here](https://drive.google.com/open?id=0ByM0es_F6i1FekhHdDZrZEtseEU)
-2. Download File
-3. Unzip Enclosed Folder
-4. Double Click .exe file
-
-[Source Code](https://github.com/KRagula/Programming-II-Portfolio/tree/master/VirusChampion/src)
+[Source Code](https://github.com/SamBow/Programming2Projects/tree/master/VirusChampion/Code)
 
 ### Tanker Truck Calculator
 
