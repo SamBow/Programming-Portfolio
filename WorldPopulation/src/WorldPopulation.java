@@ -5,7 +5,7 @@
  * during either a time of peace or during a zombie apocalypse with the user
  * playing as God.
  * 
- * @author Kanishka R and Sam C
+ * @author Sam C and Kanishka R
  * @version 0.1.0
  * @since 01-11-2016
  * 
