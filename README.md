@@ -9,7 +9,7 @@
 ### Virus Champion
 
 
-<img src="https://github.com/SamBow/Programming2Projects/blob/master/VirusChampion/Images/Virus1.png"/>
+![alt text](https://github.com/SamBow/Programming2Projects/blob/master/VirusChampion/Images/Virus1.png "Start Screen")
 ![alt text](https://github.com/SamBow/Programming2Projects/blob/master/VirusChampion/Images/Virus2.png "Instructions Screen")
 
 Simulate a white blood cell eliminating the bacteria in order to prevent them from splitting in two and harming the host.  WASD for movement and control.  Mouse to fire.  Mitosis launches a smaller white blood cell at the bacteria, killing on impact.
