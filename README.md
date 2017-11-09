@@ -1,3 +1,7 @@
+* TOC
+{:toc}
+
+
 # Programming 2 Portfolio
 
 ## Projects
