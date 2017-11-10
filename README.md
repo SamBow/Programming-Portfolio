@@ -173,4 +173,5 @@ Repo [here](https://github.com/SamBow/Spy_Hop_Projects/tree/master/MathShooter)
     		<ul>
         		<li><a href="mailto:sbcskyline18@gmail.com">Contact Me</a></li>
         		<li><a href="https://github.com/SamBow">My Github Profile</a></li>
+            </ul>  
             
