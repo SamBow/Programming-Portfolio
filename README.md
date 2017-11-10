@@ -94,7 +94,7 @@ Features:
 
 Start:
 
-![alt text](https://sambow.github.io/Programming-Portfolio/EnvironmentProtection/Images/Ship1.png "Gameplay")
+![alt text](https://sambow.github.io/Spy_Hop_Projects/EnvironmentProtection/Images/Ship1.png "Gameplay")
 
 End:
 Once the oil tanker fully lowers it's drill, the ocean begins to progressively fill with oil.
