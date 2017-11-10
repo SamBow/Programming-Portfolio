@@ -94,12 +94,12 @@ Features:
 
 Start:
 
-![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/EnvironmentProtection/Images/Ship1.png "Gameplay")
+![alt text](https://sambow.github.io/Programming-Portfolio/EnvironmentProtection/Images/Ship1.png "Gameplay")
 
 End:
 Once the oil tanker fully lowers it's drill, the ocean begins to progressively fill with oil.
 
-![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/EnvironmentProtection/Images/Ship2.png "Game Over")
+![alt text](https://sambow.github.io/Programming-Portfolio/EnvironmentProtection/Images/Ship2.png "Game Over")
 
 [Source Code](https://github.com/SamBow/Spy_Hop_Projects/tree/master/EnvironmentProtection/src)
 
@@ -118,11 +118,11 @@ Features:
 
 A bully "enemy" chases the player until the player is caught by the bully, or the level ends.
 
-![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/InfiniteRunner/Images/Gameplay1.png)
+![alt text](https://sambow.github.io/Programming-Portfolio/InfiniteRunner/Images/Gameplay1.png)
 
 Once a level is completed, the user is given an option to avoide resolving the bullying, or to seek help.
 
-![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/InfiniteRunner/Images/Bully2.png)
+![alt text](https://sambow.github.io/Programming-Portfolio/InfiniteRunner/Images/Bully2.png)
 
 If the player chooses to seek help, they win the game. Otherwise, the player will continue to run from the bully.
 
@@ -143,11 +143,11 @@ Features:
 
 GUI:
 
-![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/Submarine/Images/Sub1.png "Display")
+![alt text](https://sambow.github.io/Programming-Portfolio/Submarine/Images/Sub1.png "Display")
 
 Game becomes progressively more difficult as enemy ships are added to the game scene.
 
-![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/Submarine/Images/Sub2.png "Display")
+![alt text](https://sambow.github.io/Programming-Portfolio/Submarine/Images/Sub2.png "Display")
 
 [Source Code](https://github.com/SamBow/Spy_Hop_Projects/tree/master/Submarine/src)
 
@@ -159,11 +159,11 @@ This game focuses on teaching basic mathematics through an interactive world wit
 
 User is presented with three possible solutions to preset a math problem. User must decide which lane contains the correct answer to continue.
 
-![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/MathShooter/Images/Math1.png "Display")
+![alt text](https://sambow.github.io/Programming-Portfolio/MathShooter/Images/Math1.png "Display")
 
 Once the user has successfully answered every question in a level, they continue to the next level by destroying the boss.
 
-![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/MathShooter/Images/Math3.png "Display")
+![alt text](https://sambow.github.io/Programming-Portfolio/MathShooter/Images/Math3.png "Display")
 
 [Source Code](https://github.com/SamBow/Spy_Hop_Projects/tree/master/MathShooter/src)
 
