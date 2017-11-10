@@ -80,7 +80,7 @@ The map is then slowly flooded in increments of 10 until it is full.
 
 Repo [here](https://github.com/SamBow/Programming2Projects/tree/master/FloodMap)
 
-# Spy Hop
+## Spy Hop
 
 <footer>
     		<ul>
