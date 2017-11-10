@@ -4,7 +4,7 @@
 
 # Programming Portfolio
 
-## Projects
+## School Projects
 
 ### Virus Champion
 
