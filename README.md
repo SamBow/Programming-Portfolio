@@ -2,7 +2,7 @@
 {:toc}
 
 
-# Programming 2 Portfolio
+# Programming Portfolio
 
 ## Projects
 
