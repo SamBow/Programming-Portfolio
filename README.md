@@ -169,6 +169,8 @@ Once the user has successfully answered every question in a level, they continue
 
 Repo [here](https://github.com/SamBow/Programming-Portfolio/tree/master/MathShooter)
 
+##Contact Me
+
 <ul>
 <li><a href="mailto:sbcskyline18@gmail.com">Contact Me</a></li>
 <li><a href="https://github.com/SamBow">My Github Profile</a></li>
